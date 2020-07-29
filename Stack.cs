@@ -24,10 +24,6 @@ namespace PushPopStackOverflow
                 pushPopList.RemoveAt(index);
                 index--;
                 return obj;
-            
-          
-
-           
         }
 
         public void Clear()
@@ -42,11 +38,5 @@ namespace PushPopStackOverflow
          
         }
         }
-
-
-
-
-
-
 
 }
