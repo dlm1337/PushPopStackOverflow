@@ -1,0 +1,13 @@
+C:\Users\dlm13\source\repos\PushPopStackOverflow\bin\Debug\netcoreapp3.1\PushPopStackOverflow.exe
+C:\Users\dlm13\source\repos\PushPopStackOverflow\bin\Debug\netcoreapp3.1\PushPopStackOverflow.deps.json
+C:\Users\dlm13\source\repos\PushPopStackOverflow\bin\Debug\netcoreapp3.1\PushPopStackOverflow.runtimeconfig.json
+C:\Users\dlm13\source\repos\PushPopStackOverflow\bin\Debug\netcoreapp3.1\PushPopStackOverflow.runtimeconfig.dev.json
+C:\Users\dlm13\source\repos\PushPopStackOverflow\bin\Debug\netcoreapp3.1\PushPopStackOverflow.dll
+C:\Users\dlm13\source\repos\PushPopStackOverflow\bin\Debug\netcoreapp3.1\PushPopStackOverflow.pdb
+C:\Users\dlm13\source\repos\PushPopStackOverflow\obj\Debug\netcoreapp3.1\PushPopStackOverflow.csprojAssemblyReference.cache
+C:\Users\dlm13\source\repos\PushPopStackOverflow\obj\Debug\netcoreapp3.1\PushPopStackOverflow.AssemblyInfoInputs.cache
+C:\Users\dlm13\source\repos\PushPopStackOverflow\obj\Debug\netcoreapp3.1\PushPopStackOverflow.AssemblyInfo.cs
+C:\Users\dlm13\source\repos\PushPopStackOverflow\obj\Debug\netcoreapp3.1\PushPopStackOverflow.csproj.CoreCompileInputs.cache
+C:\Users\dlm13\source\repos\PushPopStackOverflow\obj\Debug\netcoreapp3.1\PushPopStackOverflow.dll
+C:\Users\dlm13\source\repos\PushPopStackOverflow\obj\Debug\netcoreapp3.1\PushPopStackOverflow.pdb
+C:\Users\dlm13\source\repos\PushPopStackOverflow\obj\Debug\netcoreapp3.1\PushPopStackOverflow.genruntimeconfig.cache
